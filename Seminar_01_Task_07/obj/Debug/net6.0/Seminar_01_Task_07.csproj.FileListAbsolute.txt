@@ -1,0 +1,16 @@
+C:\Users\0000\Desktop\introduction_C#\Seminar_01_Task_07\obj\Debug\net6.0\Seminar_01_Task_07.GlobalUsings.g.cs
+C:\Users\0000\Desktop\introduction_C#\Seminar_01_Task_07\obj\Debug\net6.0\Seminar_01_Task_07.csproj.AssemblyReference.cache
+C:\Users\0000\Desktop\introduction_C#\Seminar_01_Task_07\obj\Debug\net6.0\Seminar_01_Task_07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0000\Desktop\introduction_C#\Seminar_01_Task_07\obj\Debug\net6.0\Seminar_01_Task_07.AssemblyInfoInputs.cache
+C:\Users\0000\Desktop\introduction_C#\Seminar_01_Task_07\obj\Debug\net6.0\Seminar_01_Task_07.AssemblyInfo.cs
+C:\Users\0000\Desktop\introduction_C#\Seminar_01_Task_07\obj\Debug\net6.0\Seminar_01_Task_07.csproj.CoreCompileInputs.cache
+C:\Users\0000\Desktop\introduction_C#\Seminar_01_Task_07\bin\Debug\net6.0\Seminar_01_Task_07.exe
+C:\Users\0000\Desktop\introduction_C#\Seminar_01_Task_07\bin\Debug\net6.0\Seminar_01_Task_07.deps.json
+C:\Users\0000\Desktop\introduction_C#\Seminar_01_Task_07\bin\Debug\net6.0\Seminar_01_Task_07.runtimeconfig.json
+C:\Users\0000\Desktop\introduction_C#\Seminar_01_Task_07\bin\Debug\net6.0\Seminar_01_Task_07.dll
+C:\Users\0000\Desktop\introduction_C#\Seminar_01_Task_07\bin\Debug\net6.0\ref\Seminar_01_Task_07.dll
+C:\Users\0000\Desktop\introduction_C#\Seminar_01_Task_07\bin\Debug\net6.0\Seminar_01_Task_07.pdb
+C:\Users\0000\Desktop\introduction_C#\Seminar_01_Task_07\obj\Debug\net6.0\Seminar_01_Task_07.dll
+C:\Users\0000\Desktop\introduction_C#\Seminar_01_Task_07\obj\Debug\net6.0\ref\Seminar_01_Task_07.dll
+C:\Users\0000\Desktop\introduction_C#\Seminar_01_Task_07\obj\Debug\net6.0\Seminar_01_Task_07.pdb
+C:\Users\0000\Desktop\introduction_C#\Seminar_01_Task_07\obj\Debug\net6.0\Seminar_01_Task_07.genruntimeconfig.cache
